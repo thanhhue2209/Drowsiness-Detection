@@ -13,3 +13,4 @@ Model predicts eye-opening and closing-eyes:
 ![image](https://user-images.githubusercontent.com/74448277/221800718-ac046ba7-8de3-42bd-92c7-3233d49c629b.png)
 
 
+In this project, my work is to collect data on internet, preprocess it, then run model Resnet50V2, Resnet101V2, InceptionV3 and write part of report.
